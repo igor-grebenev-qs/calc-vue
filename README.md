@@ -1,4 +1,4 @@
-# calc
+# calc2
 
 > A Vue.js project
 
